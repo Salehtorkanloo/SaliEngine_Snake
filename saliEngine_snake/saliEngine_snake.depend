@@ -1,0 +1,351 @@
+# depslib dependency file v1.0
+1704380760 source:c:\users\sali\desktop\saliengine_snake\_sali engine\src\animatedgraphic.cpp
+	<AnimatedGraphic.h>
+	<SDL.h>
+
+1704381321 c:\users\sali\desktop\saliengine_snake\_sali engine\include\animatedgraphic.h
+	<SDLGameObject.h>
+	<GameObjectFactory.h>
+
+1706036236 c:\users\sali\desktop\saliengine_snake\_sali engine\include\sdlgameobject.h
+	<Vector2D.h>
+	<LoaderParameters.h>
+	<GameObject.h>
+
+1706366351 c:\users\sali\desktop\saliengine_snake\_sali engine\include\vector2d.h
+	<math.h>
+	<ostream>
+
+1705646085 c:\users\sali\desktop\saliengine_snake\_sali engine\include\loaderparameters.h
+	<iostream>
+
+1706035938 c:\users\sali\desktop\saliengine_snake\_sali engine\include\gameobject.h
+
+1706296234 c:\users\sali\desktop\saliengine_snake\_sali engine\include\gameobjectfactory.h
+	<map>
+	<GameObject.h>
+	<iostream>
+
+1706542194 source:c:\users\sali\desktop\saliengine_snake\_sali engine\src\game.cpp
+	<Game.h>
+	<iostream>
+	<SDL.h>
+	<TextureManager.h>
+	<InputHandler.h>
+	<GameObjectFactory.h>
+	<SnakePlayer.h>
+	<SnakeFood.h>
+	<cstdlib>
+
+1706538922 c:\users\sali\desktop\saliengine_snake\_sali engine\include\game.h
+	<iostream>
+	<SDL.h>
+	<GameObject.h>
+	<vector>
+	<GameObjectFactory.h>
+
+1704309897 c:\users\sali\desktop\saliengine_snake\_sali engine\include\texturemanager.h
+	<map>
+	<SDL.h>
+
+1706364867 c:\users\sali\desktop\saliengine_snake\_sali engine\include\inputhandler.h
+	<iostream>
+	<vector>
+	<Vector2D.h>
+	<SDL.h>
+
+1704391294 source:c:\users\sali\desktop\saliengine_snake\_sali engine\src\gameobjectfactory.cpp
+	<GameObjectFactory.h>
+
+1706274191 source:c:\users\sali\desktop\saliengine_snake\_sali engine\src\gamestatemachine.cpp
+	<GameStateMachine.h>
+	<string>
+
+1704338662 c:\users\sali\desktop\saliengine_snake\_sali engine\include\gamestatemachine.h
+	<vector>
+	<GameState.h>
+
+1704286216 c:\users\sali\desktop\saliengine_snake\_sali engine\include\gamestate.h
+	<iostream>
+
+1706364886 source:c:\users\sali\desktop\saliengine_snake\_sali engine\src\inputhandler.cpp
+	<InputHandler.h>
+	<SDL.h>
+	<Game.h>
+	<iostream>
+	<Vector2D.h>
+
+1706179737 source:c:\users\sali\desktop\saliengine_snake\_sali engine\src\main.cpp
+	<iostream>
+	<Game.h>
+
+1704899470 source:c:\users\sali\desktop\saliengine_snake\_sali engine\src\menubutton.cpp
+	<MenuButton.h>
+	<Vector2D.h>
+	<Game.h>
+	<InputHandler.h>
+
+1704901036 c:\users\sali\desktop\saliengine_snake\_sali engine\include\menubutton.h
+	<SDLGameObject.h>
+	<GameObjectFactory.h>
+
+1706036255 source:c:\users\sali\desktop\saliengine_snake\_sali engine\src\sdlgameobject.cpp
+	<SDLGameObject.h>
+	<LoaderParameters.h>
+	<Game.h>
+	<TextureManager.h>
+
+1706274711 source:c:\users\sali\desktop\saliengine_snake\_sali engine\src\stateparser.cpp
+	<StateParser.h>
+	<SDLGameObject.h>
+	<TextureManager.h>
+	<GameObjectFactory.h>
+
+1704637974 c:\users\sali\desktop\saliengine_snake\_sali engine\include\stateparser.h
+	<tinyxml.h>
+	<string>
+	<vector>
+	<SDLGameObject.h>
+
+1305422697 c:\users\sali\desktop\saliengine_snake\_sali engine\include\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1305422697 c:\users\sali\desktop\saliengine_snake\_sali engine\include\tinystr.h
+	<assert.h>
+	<string.h>
+
+1706179833 source:c:\users\sali\desktop\saliengine_snake\_sali engine\src\texturemanager.cpp
+	<Game.h>
+	<TextureManager.h>
+	<SDL_image.h>
+	<iostream>
+
+1305422697 source:c:\users\sali\desktop\saliengine_snake\_sali engine\src\tinystr.cpp
+	"tinystr.h"
+
+1305422697 source:c:\users\sali\desktop\saliengine_snake\_sali engine\src\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1305422697 source:c:\users\sali\desktop\saliengine_snake\_sali engine\src\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1305422697 source:c:\users\sali\desktop\saliengine_snake\_sali engine\src\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1706467684 source:c:\users\sali\desktop\saliengine_snake\src\main.cpp
+	<Game.h>
+
+1706542417 c:\users\sali\desktop\saliengine_snake\include\grid2d.h
+	<GameObject.h>
+	<Vector2D.h>
+	<Game.h>
+	<bits/stdc++.h>
+
+1706538653 source:c:\users\sali\desktop\saliengine_snake\src\snakeplayer.cpp
+	<SnakePlayer.h>
+	<InputHandler.h>
+	<cmath>
+	<SnakeFood.h>
+	<Game.h>
+
+1706538049 c:\users\sali\desktop\saliengine_snake\include\snakeplayer.h
+	<GameObject.h>
+	<Grid2D.h>
+
+1706542167 source:c:\users\sali\desktop\saliengine_snake\src\snakefood.cpp
+	<SnakeFood.h>
+	<Game.h>
+	<SnakePlayer.h>
+
+1706542086 c:\users\sali\desktop\saliengine_snake\include\snakefood.h
+	<Grid2D.h>
+
+1704380760 source:c:\users\sali\desktop\projects\saliengine_snake\_sali engine\src\animatedgraphic.cpp
+	<AnimatedGraphic.h>
+	<SDL.h>
+
+1706542194 source:c:\users\sali\desktop\projects\saliengine_snake\_sali engine\src\game.cpp
+	<Game.h>
+	<iostream>
+	<SDL.h>
+	<TextureManager.h>
+	<InputHandler.h>
+	<GameObjectFactory.h>
+	<SnakePlayer.h>
+	<SnakeFood.h>
+	<cstdlib>
+
+1704391294 source:c:\users\sali\desktop\projects\saliengine_snake\_sali engine\src\gameobjectfactory.cpp
+	<GameObjectFactory.h>
+
+1706274191 source:c:\users\sali\desktop\projects\saliengine_snake\_sali engine\src\gamestatemachine.cpp
+	<GameStateMachine.h>
+	<string>
+
+1706364886 source:c:\users\sali\desktop\projects\saliengine_snake\_sali engine\src\inputhandler.cpp
+	<InputHandler.h>
+	<SDL.h>
+	<Game.h>
+	<iostream>
+	<Vector2D.h>
+
+1704899470 source:c:\users\sali\desktop\projects\saliengine_snake\_sali engine\src\menubutton.cpp
+	<MenuButton.h>
+	<Vector2D.h>
+	<Game.h>
+	<InputHandler.h>
+
+1706036255 source:c:\users\sali\desktop\projects\saliengine_snake\_sali engine\src\sdlgameobject.cpp
+	<SDLGameObject.h>
+	<LoaderParameters.h>
+	<Game.h>
+	<TextureManager.h>
+
+1706274711 source:c:\users\sali\desktop\projects\saliengine_snake\_sali engine\src\stateparser.cpp
+	<StateParser.h>
+	<SDLGameObject.h>
+	<TextureManager.h>
+	<GameObjectFactory.h>
+
+1706179833 source:c:\users\sali\desktop\projects\saliengine_snake\_sali engine\src\texturemanager.cpp
+	<Game.h>
+	<TextureManager.h>
+	<SDL_image.h>
+	<iostream>
+
+1305422697 source:c:\users\sali\desktop\projects\saliengine_snake\_sali engine\src\tinystr.cpp
+	"tinystr.h"
+
+1305422697 source:c:\users\sali\desktop\projects\saliengine_snake\_sali engine\src\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1305422697 source:c:\users\sali\desktop\projects\saliengine_snake\_sali engine\src\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1305422697 source:c:\users\sali\desktop\projects\saliengine_snake\_sali engine\src\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1706542167 source:c:\users\sali\desktop\projects\saliengine_snake\src\snakefood.cpp
+	<SnakeFood.h>
+	<Game.h>
+	<SnakePlayer.h>
+
+1706641460 source:c:\users\sali\desktop\projects\saliengine_snake\src\snakeplayer.cpp
+	<SnakePlayer.h>
+	<InputHandler.h>
+	<cmath>
+	<SnakeFood.h>
+	<Game.h>
+
+1706179737 source:c:\users\sali\desktop\projects\saliengine_snake\_sali engine\src\main.cpp
+	<iostream>
+	<Game.h>
+
+1704381321 c:\users\sali\desktop\projects\saliengine_snake\_sali engine\include\animatedgraphic.h
+	<SDLGameObject.h>
+	<GameObjectFactory.h>
+
+1706036236 c:\users\sali\desktop\projects\saliengine_snake\_sali engine\include\sdlgameobject.h
+	<Vector2D.h>
+	<LoaderParameters.h>
+	<GameObject.h>
+
+1706641257 c:\users\sali\desktop\projects\saliengine_snake\_sali engine\include\vector2d.h
+	<math.h>
+	<ostream>
+
+1705646085 c:\users\sali\desktop\projects\saliengine_snake\_sali engine\include\loaderparameters.h
+	<iostream>
+
+1706035938 c:\users\sali\desktop\projects\saliengine_snake\_sali engine\include\gameobject.h
+
+1706296234 c:\users\sali\desktop\projects\saliengine_snake\_sali engine\include\gameobjectfactory.h
+	<map>
+	<GameObject.h>
+	<iostream>
+
+1706538922 c:\users\sali\desktop\projects\saliengine_snake\_sali engine\include\game.h
+	<iostream>
+	<SDL.h>
+	<GameObject.h>
+	<vector>
+	<GameObjectFactory.h>
+
+1704309897 c:\users\sali\desktop\projects\saliengine_snake\_sali engine\include\texturemanager.h
+	<map>
+	<SDL.h>
+
+1706364867 c:\users\sali\desktop\projects\saliengine_snake\_sali engine\include\inputhandler.h
+	<iostream>
+	<vector>
+	<Vector2D.h>
+	<SDL.h>
+
+1706640746 c:\users\sali\desktop\projects\saliengine_snake\include\snakeplayer.h
+	<GameObject.h>
+	<Grid2D.h>
+
+1706542417 c:\users\sali\desktop\projects\saliengine_snake\include\grid2d.h
+	<GameObject.h>
+	<Vector2D.h>
+	<Game.h>
+	<bits/stdc++.h>
+
+1706542086 c:\users\sali\desktop\projects\saliengine_snake\include\snakefood.h
+	<Grid2D.h>
+
+1704338662 c:\users\sali\desktop\projects\saliengine_snake\_sali engine\include\gamestatemachine.h
+	<vector>
+	<GameState.h>
+
+1704286216 c:\users\sali\desktop\projects\saliengine_snake\_sali engine\include\gamestate.h
+	<iostream>
+
+1704901036 c:\users\sali\desktop\projects\saliengine_snake\_sali engine\include\menubutton.h
+	<SDLGameObject.h>
+	<GameObjectFactory.h>
+
+1704637974 c:\users\sali\desktop\projects\saliengine_snake\_sali engine\include\stateparser.h
+	<tinyxml.h>
+	<string>
+	<vector>
+	<SDLGameObject.h>
+
+1305422697 c:\users\sali\desktop\projects\saliengine_snake\_sali engine\include\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1305422697 c:\users\sali\desktop\projects\saliengine_snake\_sali engine\include\tinystr.h
+	<assert.h>
+	<string.h>
+
+1706638903 source:c:\users\sali\desktop\projects\saliengine_snake\src\main.cpp
+	<Game.h>
+
